@@ -33,17 +33,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/ManoharShrest16?style=social)](https://twitter.com/ManoharShrest16) [![Linkedin](https://img.shields.io/badge/-manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnohrstha/)](https://www.linkedin.com/in/mnohrstha/)
 [![GitHub](https://img.shields.io/github/followers/mnohr?label=follow&style=social)](https://github.com/mnohr)[![website](https://img.shields.io/badge/CsitBlog-hamropedia.com-2648ff?style=flat-square&logo=google-chrome)](https://hamropedia.com) [![website](https://img.shields.io/badge/Website-manoharstha.com.np-yellow?style=plastic&logo=appveyor)](https://manoharstha.com.np)
 
-<a href="https://github.com/mnohr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mnohr&hide=stars,contribs&count_private=true,&show_icons=true" />
-</a>
-
-
-<br/>
-<br/> 
-<a href="https://github.com/mnohr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mnohr&repo=mnohr.github.io" />
-</a>
-
-<a href="https://github.com/mnohr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnohr&layout=compact" />
-</a>
+[![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=mnohr&hide=stars,contribs&count_private=true,&show_icons=true)](https://github.com/mnohr/) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mnohr&repo=mnohr.github.io)](https://github.com/mnohr/mnohr.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnohr&layout=compact)](https://github.com/mnohr/)
