@@ -32,3 +32,5 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/ManoharShrest16?style=social)](https://twitter.com/ManoharShrest16) [![Linkedin](https://img.shields.io/badge/-manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnohrstha/)](https://www.linkedin.com/in/mnohrstha/)
 [![GitHub](https://img.shields.io/github/followers/mnohr?label=follow&style=social)](https://github.com/mnohr)[![website](https://img.shields.io/badge/CsitBlog-hamropedia.com-2648ff?style=flat-square&logo=google-chrome)](https://hamropedia.com) [![website](https://img.shields.io/badge/Website-manoharstha.com.np-yellow?style=plastic&logo=appveyor)](https://manoharstha.com.np)
+
+[![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=mnohr)](https://github.com/mnohr/github-readme-stats)
