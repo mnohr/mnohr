@@ -25,7 +25,6 @@
 <br/>
 
 - 🔭  I’m currently working on Laravel and as a WordPress developer.
-- 🌱 I’m currently learning Flutter.
 - 📚 I'm currently studing computer science and information technology.
 - 💚 Love to read books.
 - 🧘🏿‍♀️ Living a Spiritual Path.
