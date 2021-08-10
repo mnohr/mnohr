@@ -32,7 +32,7 @@
 ## Checkout my portfolio 
 [![website](https://img.shields.io/badge/Website-manoharstha.com.np-yellow?style=plastic&logo=appveyor)](https://manoharstha.com.np)
 ## Connect with me
-<a href="https://twitter.com/ManoharShrest16">
+<a href="https://twitter.com/mnohrstha">
   <img align="left" target="_blank" alt="Manohar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mnohrstha/">
