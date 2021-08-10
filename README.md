@@ -1,7 +1,15 @@
-## Hello, I'm [Manohar Shrestha!](https://manoharstha.com.np) 🙏👋
+## Hello, Welcome to my github page. 🙏👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnohr&label=Views&color=blue&style=plastic" alt="mnohr" /> </p>
 
+
+- 🔭  I’m currently learning UX Design.
+- 📚 I'm currently studing computer science and information technology.
+- 💚 Love to read books.
+- 👨🏿‍🤝‍👨🏿I’m looking to help & collaborate with others
+## Checkout my portfolio 
+[![website](https://img.shields.io/badge/Website-manoharstha.com.np-yellow?style=plastic&logo=appveyor)](https://manoharstha.com.np)
+## Connect with me
 <a href="https://twitter.com/ManoharShrest16">
   <img align="left" alt="Manohar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -24,14 +32,15 @@
 <br/>
 <br/>
 
-- 🔭  I’m currently working on Laravel and as a WordPress developer.
-- 📚 I'm currently studing computer science and information technology.
-- 💚 Love to read books.
-- 🧘🏿‍♀️ Living a Spiritual Path.
+### Checkout Blog on interting tips , solutions and many more.
 
-[![Twitter](https://img.shields.io/twitter/follow/ManoharShrest16?style=social)](https://twitter.com/ManoharShrest16) [![Linkedin](https://img.shields.io/badge/-manohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnohrstha/)](https://www.linkedin.com/in/mnohrstha/)
-[![GitHub](https://img.shields.io/github/followers/mnohr?label=follow&style=social)](https://github.com/mnohr) [![website](https://img.shields.io/badge/CsitBlog-hamropedia.com-2648ff?style=flat-square&logo=google-chrome)](https://hamropedia.com) [![website](https://img.shields.io/badge/Website-manoharstha.com.np-yellow?style=plastic&logo=appveyor)](https://manoharstha.com.np)
 
-[![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=mnohr&hide=stars,contribs&count_private=true,&show_icons=true)](https://github.com/mnohr/) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mnohr&repo=mnohr.github.io)](https://github.com/mnohr/mnohr.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnohr&layout=compact)](https://github.com/mnohr/)
+ [![website](https://img.shields.io/badge/Blog-commitchanges.blogspot.com-2648ff?style=flat-square&logo=google-chrome)](https://commitchanges.blogspot.com/) 
+
+<br>
+
+[![Manohar's github stats](https://github-readme-stats.vercel.app/api?username=mnohr&hide=stars,contribs&count_private=true,&show_icons=true,&theme=radical)](https://github.com/mnohr/) 
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnohr&layout=compact&theme=radical)](https://github.com/mnohr/)
